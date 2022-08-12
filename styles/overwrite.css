@@ -1,0 +1,79 @@
+/* Paul Morrison*/
+/*index.html overwrite settings*/
+.li-title {
+    color: rgb(72, 92, 193);
+}
+.subtitle{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.endbox {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box {
+    background-color: rgb(72, 92, 193);
+}
+.social {
+    color: rgb(72, 92, 193);
+}
+
+/* edu.html overwrite settings*/
+.edu-li {
+    font-size: 12pt;
+    color: black;
+}
+.menu {
+    text-align: center;
+    
+    font-size: 12pt;
+    font-weight: bold;
+    color: rgb(88, 88, 88, .75);
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.menu-item {
+    font-style: italic;
+    text-decoration: none;    
+}
+.menu-item:hover {
+    text-decoration: underline;
+}
+
+/* exp.html overwrite settings*/
+.exp-ol {
+    font-size: 16pt;
+    color: rgb(72, 92, 193);
+}
+.exp-li1 {
+    font-size: 10pt;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.exp-li2 {
+    font-size: 12pt;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.ital {
+    font-style: italic;
+}
+
+/*ski.html overwrite*/
+h5 {
+    color: rgb(72, 92, 193);
+    font-size: 18pt;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.skil {
+    font-size: 12pt;
+    font-weight: normal;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.yt {
+    width: 560px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
